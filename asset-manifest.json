@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/matt-jackson-project5-GHpages/static/css/main.5f361e03.chunk.css",
+    "main.js": "/matt-jackson-project5-GHpages/static/js/main.8b4756b4.chunk.js",
+    "main.js.map": "/matt-jackson-project5-GHpages/static/js/main.8b4756b4.chunk.js.map",
+    "runtime-main.js": "/matt-jackson-project5-GHpages/static/js/runtime-main.14344e4f.js",
+    "runtime-main.js.map": "/matt-jackson-project5-GHpages/static/js/runtime-main.14344e4f.js.map",
+    "static/js/2.d6f0c39a.chunk.js": "/matt-jackson-project5-GHpages/static/js/2.d6f0c39a.chunk.js",
+    "static/js/2.d6f0c39a.chunk.js.map": "/matt-jackson-project5-GHpages/static/js/2.d6f0c39a.chunk.js.map",
+    "index.html": "/matt-jackson-project5-GHpages/index.html",
+    "precache-manifest.cfd12e00d9c22c36fbd9c9a7a7870645.js": "/matt-jackson-project5-GHpages/precache-manifest.cfd12e00d9c22c36fbd9c9a7a7870645.js",
+    "service-worker.js": "/matt-jackson-project5-GHpages/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/matt-jackson-project5-GHpages/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.d6f0c39a.chunk.js.LICENSE.txt": "/matt-jackson-project5-GHpages/static/js/2.d6f0c39a.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/matt-jackson-project5-GHpages/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.14344e4f.js",
+    "static/js/2.d6f0c39a.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.8b4756b4.chunk.js"
+  ]
+}
